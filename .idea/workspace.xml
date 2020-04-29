@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -27,6 +30,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1aq1F6UIQ7ay4WKUZDUsgObNvjx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,7 +48,7 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../testlink" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -156,7 +160,7 @@
       <workItem from="1588043618279" duration="423000" />
       <workItem from="1588044455362" duration="2834000" />
       <workItem from="1588047327353" duration="969000" />
-      <workItem from="1588051981874" duration="3103000" />
+      <workItem from="1588051981874" duration="4300000" />
     </task>
     <servers />
   </component>
@@ -228,10 +232,10 @@
       <screen x="2880" y="0" width="1280" height="680" />
     </state>
     <state width="1237" height="160" key="GridCell.Tab.1.right/0.0.1920.1160/2880.0.1280.680@2880.0.1280.680" timestamp="1587886769682" />
-    <state x="3022" y="0" key="SettingsEditor" timestamp="1587691059713">
+    <state x="3022" y="0" key="SettingsEditor" timestamp="1588122875919">
       <screen x="2880" y="0" width="1280" height="680" />
     </state>
-    <state x="3022" y="0" key="SettingsEditor/0.0.1920.1160/2880.0.1280.680@2880.0.1280.680" timestamp="1587691059713" />
+    <state x="3022" y="0" key="SettingsEditor/0.0.1920.1160/2880.0.1280.680@2880.0.1280.680" timestamp="1588122875919" />
     <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1587720317422">
       <screen x="2880" y="0" width="1280" height="680" />
     </state>
