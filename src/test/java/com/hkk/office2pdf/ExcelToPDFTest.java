@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.net.URL;
 
 @SpringBootTest
-public class Office2pdfApplicationTests {
+public class ExcelToPDFTest {
 
     @Test
     public void excel2003toPDF() throws DocumentException, InvalidFormatException, IOException {
