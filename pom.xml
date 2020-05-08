@@ -67,6 +67,13 @@
             <artifactId>fr.opensagres.xdocreport.itext.extension</artifactId>
             <version>${xdocreport.version}</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.freemarker</groupId>
+            <artifactId>freemarker</artifactId>
+            <version>2.3.30</version>
+        </dependency>
+
     </dependencies>
 
     <build>
